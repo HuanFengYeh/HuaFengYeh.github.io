@@ -1,2 +1,2 @@
 # Personal Portfolio ⚡️ 
-Template for @varadbhogayata
+Template from @varadbhogayata
